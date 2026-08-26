@@ -2,6 +2,8 @@
 
 Projects built during my C++ learning journey.
 
+## 🎮 Mini Games
+
 ### 🎮 Rock Paper Scissors
 
 A simple console-based Rock Paper Scissors game.
