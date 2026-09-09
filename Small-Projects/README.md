@@ -16,6 +16,11 @@ A simple number guessing game using random number generation.
 
 [View Project](../C++/25.%20Number%20Guessing%20Game/)
 
+### 🎮 Quick Guessing Game
+
+A simple guessing game.
+
+[View Project](../C++/42.%20Quick%20game/)
 
 ## 🧮 Utility Programs
 
