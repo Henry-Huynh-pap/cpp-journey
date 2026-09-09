@@ -20,7 +20,7 @@ A simple number guessing game using random number generation.
 
 A simple guessing game.
 
-[View Project](../C++/42.%20Quick%20game/)
+[View Project](../C++/42.%20Quick%20guessing%20game/)
 
 ## 🧮 Utility Programs
 
