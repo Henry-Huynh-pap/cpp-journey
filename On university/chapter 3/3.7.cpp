@@ -1,6 +1,5 @@
 #include <iostream>
-#include <cmath>
-#include<string>
+#include <string>
 using namespace std;
 
 int main(){
@@ -16,7 +15,7 @@ int main(){
 
     p = x * y;
     s = x + y;
-    q = s*s + pow(p, s*x) * (p+y);
+    q = s*2 + p*((s)*x) * (p+y);
 
 
     cout << "The value of p is: " << p << '\n';
