@@ -10,6 +10,6 @@ int main(){
         sum = sum + i;
     }
 
-    cout << "\n The sum form 1 to n is: " << sum << endl;
+    cout << "\n The sum from 1 to n is: " << sum << endl;
     return 0;
 }
