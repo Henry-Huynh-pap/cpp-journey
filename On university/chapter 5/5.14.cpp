@@ -88,7 +88,7 @@ int main() {
     }
     }while(running);
 
-    cout << "See you agian !";
+    cout << "See you again !";
 
     return 0;
 }
