@@ -6,8 +6,8 @@ int asc(int a);
 
 int main(){
 
-    cout << decs(1543) << '\n';
-    cout << asc(9876);
+    cout << "DECS(x) = " << decs(1543) << '\n';
+    cout << "ASC(x) = " << asc(9876);
 
     return 0;
 }
